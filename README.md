@@ -1,17 +1,29 @@
-# smart_shoe
+# 🦶 Diebtix — Smart Insole for Diabetic Foot Monitoring
 
-A new Flutter project.
+A smart insole system that monitors foot health for diabetic patients in real-time.
 
-## Getting Started
+## 📱 Overview
+Diebtix combines embedded hardware with a Flutter mobile app to provide continuous monitoring of foot pressure, temperature, and gait patterns — helping prevent diabetic foot complications.
 
-This project is a starting point for a Flutter application.
+## ⚙️ Hardware
+- ESP32 microcontroller
+- 5x FSR pressure sensors
+- MPU-6050 IMU (accelerometer + gyroscope)
+- MAX6675 thermocouple (temperature)
+- Bluetooth Low Energy (BLE) connectivity
 
-A few resources to get you started if this is your first Flutter project:
+## 📲 Mobile App (Flutter)
+- Real-time BLE data streaming
+- Dynamic foot pressure heat map
+- Gait symmetry analysis
+- Fall detection alerts
+- Temperature & pressure trends screen
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🛠️ Tech Stack
+- **Firmware:** ESP32 / Arduino (C++)
+- **Mobile:** Flutter / Dart
+- **Communication:** BLE (Nordic UART)
+- **Platform:** Android
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👨‍💻 Developer
+Khaled Adel — Biomedical Engineering, Mansoura University
