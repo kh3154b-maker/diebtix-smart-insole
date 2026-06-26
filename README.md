@@ -2,8 +2,15 @@
 
 A smart insole system that monitors foot health for diabetic patients in real-time.
 
-## 📱 Overview
-Diebtix combines embedded hardware with a Flutter mobile app to provide continuous monitoring of foot pressure, temperature, and gait patterns — helping prevent diabetic foot complications.
+## 📱 App Screenshots
+
+| Login | Home | Foot Analysis |
+|-------|------|---------------|
+| ![Login](screenshots/Screenshot_1782435593.png) | ![Home](screenshots/Screenshot_1782436504.png) | ![Analysis](screenshots/Screenshot_1782436516.png) |
+
+| Trends | Alerts | Profile |
+|--------|--------|---------|
+| ![Trends](screenshots/Screenshot_1782436524.png) | ![Alerts](screenshots/Screenshot_1782436547.png) | ![Profile](screenshots/Screenshot_1782436540.png) |
 
 ## ⚙️ Hardware
 - ESP32 microcontroller
