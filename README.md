@@ -1,4 +1,4 @@
-# 🦶 Diebtix — Smart Insole for Diabetic Foot Monitoring
+# 🦶 Diabetix — Smart Insole for Diabetic Foot Monitoring
 
 A smart insole system that monitors foot health for diabetic patients in real-time.
 
