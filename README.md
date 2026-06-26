@@ -4,13 +4,25 @@ A smart insole system that monitors foot health for diabetic patients in real-ti
 
 ## 📱 App Screenshots
 
-| Home | Foot Analysis | Trends |
-|------|---------------|--------|
-| ![Home](screenshots/Screenshot_1782436504.png) | ![Analysis](screenshots/Screenshot_1782436516.png) | ![Trends](screenshots/Screenshot_1782436524.png) |
+| Login | Sign Up |
+|-------|---------|
+| ![Login](screenshots/Screenshot_1782436504.png) | ![Signup](screenshots/Screenshot_1782436507.png) |
 
-| Alerts | Profile |
-|--------|---------|
-| ![Alerts](screenshots/Screenshot_1782436547.png) | ![Profile](screenshots/Screenshot_1782436540.png) |
+| Home | Home Scrolled |
+|------|---------------|
+| ![Home](screenshots/Screenshot_1782436516.png) | ![Home2](screenshots/Screenshot_1782436518.png) |
+
+| Foot Heatmap | Pressure Zones |
+|--------------|----------------|
+| ![Heatmap](screenshots/Screenshot_1782436524.png) | ![Zones](screenshots/Screenshot_1782436530.png) |
+
+| Trends | Trends Scrolled |
+|--------|-----------------|
+| ![Trends](screenshots/Screenshot_1782436534.png) | ![Trends2](screenshots/Screenshot_1782436540.png) |
+
+| Profile | Alerts |
+|---------|--------|
+| ![Profile](screenshots/Screenshot_1782436543.png) | ![Alerts](screenshots/Screenshot_1782436547.png) |
 
 ## ⚙️ Hardware
 - ESP32 microcontroller
